@@ -1,0 +1,244 @@
+@media (max-width:1278px) {
+    .fixed{
+        width: 100%;
+    }
+    .header-part{
+      padding: 0 10px;
+      box-sizing: border-box;
+    }
+    .menu-right ul{
+        text-align:center;
+    }
+    .services .div1{
+        width: 44%;
+        margin: auto;
+       padding-bottom: 30px;
+       box-sizing: border-box;
+    }
+   
+    .div1 p {
+        width: 300px;
+        
+        margin: auto;
+    }
+    .services {
+        height: auto;
+        border-bottom: 2px solid #0dbf9b;
+        padding-bottom: 80px;
+        margin: auto;
+    }
+    .content {
+        height: auto;
+        text-align: center;
+
+    }
+    .picture {
+       
+        width: 100%;
+    }
+    .text{
+       text-align: center;
+        width: 90%;
+
+    }
+    .text p{
+      
+       width: 70%;
+       margin: auto;
+
+    }
+  
+}
+@media (max-width:1122px) {
+    .fixed{
+        width: 100%;
+    }
+    .header-part{
+      padding: 0 10px;
+      box-sizing: border-box;
+    }
+    .menu-left{
+        text-align:center;
+    }
+    .services .div1{
+        width: 44%;
+        margin-bottom: 15px;
+       
+    }
+    .caption h1{
+        font-size: 40px;
+
+    }
+    .service h2{
+        font-size: 37px;
+       
+    }
+    .text {
+      margin-bottom: 40px;
+        width: auto;
+      
+    }
+    .caption{
+     
+        height: 420px;
+       
+    }
+    
+    .service{
+       width:auto;
+      
+    }
+}
+ @media (max-width: 952px) {
+    .div1 p {
+        width: 300px;
+        margin-left: 120px;
+        margin: auto;
+    }
+    .caption h1{
+        font-size: 32px;
+        padding-top: 110px;
+
+    }
+    .service h2{
+        font-size: 32px;
+    }
+    .about {
+       
+       padding-top: 25px;
+       
+    }
+    .text {
+        
+        width: auto;
+       height: auto;
+        box-sizing: border-box;
+        padding-top: 25px;
+        margin-bottom: 0;
+    }
+    .contact {
+      margin-top: 50px;
+    }
+    .contact p{
+       width: 100%;
+    }
+    .about h2 {
+        font-size: 30px;
+        padding: 10px 0;
+    }
+} 
+@media (max-width: 825px) {
+    .menu-right {
+       width: 100%;
+    }
+    .menu-left {
+       width: 100%;
+    }
+}
+
+@media (max-width: 700px) {
+    .services .div1 {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+}
+@media (max-width: 627px) {
+    .contacts .div3 {
+        width: 100%;
+    }
+}
+@media (max-width: 627px) {
+    .fixed{
+        width: 96%;
+    }
+    .picture img {
+        height: auto;
+    }
+    .caption{
+      
+        height: auto;
+        padding-bottom: 30px;
+    }
+}
+/* main css */
+.bar{
+    display: none;
+}
+@media (max-width: 578px) {
+    .menu-right ul{
+        opacity: 0;
+        visibility: hidden;
+        height: 0;
+    }
+    .bar{
+        display: block;
+        padding-bottom: 20px;
+    }
+    .menu-left{
+        width: 70%;
+    }
+    .menu-right{
+        width: 30%;
+        margin-top: 20px;
+    }
+    .caption h1{
+        font-size: 27px;
+        padding-top: 100px;
+    }
+    .caption h2{
+        font-size: 23px;
+        padding: 15px 0px;
+    }
+    .caption button{
+        
+        font-size: 20px;
+    }
+}
+@media (max-width: 370px) {
+   
+    .div1 p {
+        width:auto;
+        margin-left: 120px;
+        margin: auto;
+    }
+    .menu-left h2{
+        font-size: 21px;
+  }
+  .bar{
+      font-size: 28px;
+  }
+  .text p {
+    width: 100%;
+    margin: auto;
+ }
+ .services {
+    
+    padding-bottom: 20px;
+    
+}
+}
+@media (max-width:325px) {
+    .fixed{
+       width: 92%;
+    }
+}
+@media (max-width:320px) {
+    .fixed{
+       width: 91%;
+    }
+}
+@media (max-width:315px) {
+    .fixed{
+       width: 90%;
+    }
+}
+@media (max-width:309px) {
+    .fixed{
+       width: 89%;
+    }
+}
+@media (max-width:307px) {
+    .fixed{
+       width: 84%;
+    }
+}
